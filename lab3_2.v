@@ -1,4 +1,6 @@
-`timescale 1ns / 1ps 
+`timescale 1ns / 1ps
+
+//Simple stadium automat logic. Both Host and Away is allowed to contain at most 8 fans.
 module lab3_2(
 			input[4:0] ticketID,
 			input CLK, 
