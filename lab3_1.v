@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+//A theoretical flip flop model is designed.
 module ac(
     input a,
     input c,
