@@ -1,4 +1,6 @@
 `timescale 1ns / 1ps
+
+//Simple refectory automata logic. At most 8 student is allowed.
 module lab4_2(
 			input[2:0] studentID,
 			input[2:0] credit,
