@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-
+// [16][9] RAM Implementation.
 module add_checksum(
 	input [1:9] acInput,
 	output reg [1:12] acOutput
